@@ -1,2 +1,2 @@
 # FedCORE-code
-The code of FedCORE.
+The code will be released soon.
